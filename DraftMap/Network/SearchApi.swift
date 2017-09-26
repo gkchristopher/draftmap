@@ -2,7 +2,7 @@ import Foundation
 
 class SearchApi {
 
-    let apiKey = "1b1128be13c348398054f09f3aeaffd5"
+    let apiKey = "<Add API KEY HERE>"
     let baseURL = "https://api.opencagedata.com/geocode/v1/json"
 
     let defaultSession = URLSession(configuration: .default)
