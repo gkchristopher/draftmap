@@ -1,4 +1,4 @@
-# draftmap
+# Draftmap
 
 Search location and display on map
 
